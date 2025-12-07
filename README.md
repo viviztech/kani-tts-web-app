@@ -1,3 +1,15 @@
+---
+title: KaniTTS Web App
+emoji: 🎤
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # KaniTTS Web App
 
 A text-to-speech web application using KaniTTS model with Gradio interface.
