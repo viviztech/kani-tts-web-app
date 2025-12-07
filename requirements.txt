@@ -3,3 +3,4 @@ gradio
 torch
 soundfile
 numpy
+git+https://github.com/huggingface/transformers.git
