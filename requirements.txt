@@ -1,0 +1,6 @@
+kani-tts>=0.0.4
+gradio>=4.0.0
+torch>=2.8.0
+soundfile>=0.12.0
+numpy>=1.24.0
+transformers>=4.57.0
